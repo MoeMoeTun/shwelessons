@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\android studio\Shwe 2\ShweDailyEnglish2\app\libs\StartAppInApp-3.5.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3e3f7e4686c00e730e6cf2f2d88bcd8782ce80a">
+        <dex dex="D:\android studio\Shwe 2\ShweDailyEnglish2\app\build\intermediates\transforms\dex\debug\folders\1000\2\StartAppInApp-3.5.7_79a62f6edede82946880bd6ce4a5a72fea54626a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android studio\Shwe 2\ShweDailyEnglish2\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="D:\android studio\Shwe 2\ShweDailyEnglish2\app\build\intermediates\transforms\dex\debug\folders\1000\2\YouTubeAndroidPlayerApi_e17ad10e824afc3711e04a4eb4c48e3e25d5aafc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android studio\Shwe 2\ShweDailyEnglish2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="755b7a2d50162f478a2d8f4d373c60446cb5212c">
+        <dex dex="D:\android studio\Shwe 2\ShweDailyEnglish2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a87e58efc860797855a3925282634ec2eb26215f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android studio\Shwe 2\ShweDailyEnglish2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\android studio\Shwe 2\ShweDailyEnglish2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e48c197069821206698cf71872eb29aa23a656e2\classes.dex" />
+    </item>
+
+</items>
